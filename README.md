@@ -1,10 +1,11 @@
-- 👋 Hi, I’m Alex Dognini
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning ADS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me alexdevdognini@outlook.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hello, Mundo.
+- 👋 Sou Alex Dognini
+- 👀 Apaixonado por tecnologias 
+- 🌱 Cursando Análise e desenvolvimento de Sistemas 
+- 💞️ Disposto a participar de comunidades colaborativas
+- 📫 Você pode entrar em contato pelo seguinte email alexdevdognini@outlook.com
+- 😄 Gosto de ler, principalmente livros de Fantasia. E artigos sobre novas tendencias e tecnologias
+- ⚡ 
 
 <!---
 lelecodog/lelecodog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
