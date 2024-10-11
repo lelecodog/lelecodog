@@ -3,8 +3,8 @@
 - 👀 Apaixonado por tecnologias 
 - 🌱 Cursando Análise e desenvolvimento de Sistemas 
 - 💞️ Disposto a participar de comunidades colaborativas
-- 📫 Você pode entrar em contato pelo seguinte email alexdevdognini@outlook.com
 - 😄 Gosto de ler, principalmente livros de Fantasia. E artigos sobre novas tendencias e tecnologias
+- 📫 Você pode entrar em contato pelo seguinte email alexdevdognini@outlook.com
 - ⚡ 
 
 <!---
